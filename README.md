@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Gustavo Muzeka 🖐️
 
-[![Blog](https://img.shields.io/website?label=gustavomuzeka.com.br&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Blog](https://img.shields.io/website?label=gustavomuzeka.com.br&style=for-the-badge&url=https://gustavomuzeka.com.br/)](https://gustavomuzeka.com.br)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMuzeka&show_icons=true&theme=dracula&count_private=true)
 
